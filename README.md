@@ -85,6 +85,6 @@ Fuel Xpress is a mobile app designed to streamline the process of purchasing fue
 
 # Collaborators
 
-Raja Usama Naveed
-Haris Mushtaq
-Zohaib Qaisar Kayani
+1. Raja Usama Naveed
+2. Haris Mushtaq
+3. Zohaib Qaisar Kayani
