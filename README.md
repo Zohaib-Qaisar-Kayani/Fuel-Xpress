@@ -3,6 +3,7 @@
 Fuel Xpress is a mobile app designed to streamline the process of purchasing fuel for vehicles. The app allows users to find nearby fuel stations, compare prices, place orders, and track their fuel delivery.
 
 # Features
+![Uploading image.png…]()
 
 - User Registration and Login
 - Fuel Station Locator (using Google Maps API)
